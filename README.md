@@ -1,16 +1,15 @@
-### Hi there 👋
+### Saudações Visitantes! Eu sou Víctor D. Tigre 🐯
 
-<!--
-**tigrevictorduplat/tigrevictorduplat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou..
+- 🔭 Engajado em *Aprofundar* os projetos feitos na ***Imersão Dev da Alura***
+- 🌱 Aprendendo sobre a Tríade Web-Dev
+  - HTML 🛠️
+  - CSS 🎨
+  - JavaScript 🧠
+- 🤔 Buscando feedbacks para **Otimizar** e **Melhorar** meus Códigos
+***
+- 💬 Meus Principais Interesses são:
+  - Música 🎸
+  - RPG 🎲
+  - Videogame 🎮
+  - OnePiece 🏴‍☠️
