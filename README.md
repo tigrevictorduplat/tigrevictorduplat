@@ -1,20 +1,18 @@
-### Saudações Visitantes! Eu sou Víctor D. Tigre 🐯
+## Olá, Víctor D. Tigre 🐯 aqui e Atualmente estou:
+### 🌱 Aprendendo sobre a Tríade Web-Dev 💻
+  <br>[![Tríade Web-Dev](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
-Atualmente estou..
-- 🌱 Aprendendo sobre...
-  - C# aplicado em GameDev 🎮
-  - PHP 🐘 
-  - Banco de Dados🐬
-- 💡 Aprendendo sobre a Tríade Web-Dev
-  - HTML 🛠️
-  - CSS 🎨
-  - JavaScript 🧠
-- 🤔 Curioso em tópicos como:
+###🤔 Curioso em tópicos como:
   - Computação Quântica :atom: :computer:	
   - Redes Neurais e Inteligência Artficial 🧠🤖
-- Buscando feedbacks para **Otimizar** e **Melhorar** meus Códigos
+ <p>Buscando feedbacks para <strong>Otimizar</strong> e <strong>Melhorar</strong> meus Códigos</p>
+
 ***
-- 💬 Meus Principais Interesses são:
+
+###  Usei em Projetos...
+[![ConhecimentoPratico](https://skillicons.dev/icons?i=cs,unity,php,mysql,java)](https://skillicons.dev)
+
+💬 Meus Principais Interesses são:
   - Música 🎸
   - RPG 🎲
   - Videogame 🎮
