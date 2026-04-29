@@ -2,11 +2,11 @@
 
 **Desenvolvedor I | Unity, GameDev & Web Full-Stack**
 
-Atuando na interseção entre engenharia de software e design de experiências imersivas. Meu foco é projetar arquiteturas eficientes e centradas no usuário, abrangendo desde aplicações web modernas até ecossistemas de Realidade Virtual e Aumentada.
+Atuando na interseção entre engenharia de software e design de experiências imersivas. Meu foco é desenvolver aplicações eficientes e focadas na experiência no usuário, abrangendo desde aplicações web modernas até simuladores de Realidade Virtual e interações de objetos em Realidade Aumentada.
 
 ### 🚀 Status Atual
 - 💼 **Desenvolvedor I no SENAI BAHIA:** Desenvolvendo soluções tecnológicas para educação, unindo programação web e objetos imersivos.
-- 🔭 **Iniciativas Independentes:** Estruturando ferramentas de automação e suporte técnico na VDTech, e finalizando aplicações web completas (como o Master Planner).
+- 🔭 **Iniciativas Independentes:** No meu tempo livre trabalho para criar ferramentas para Mestres de RPG, entre outras soluções para o dia-a-dia.
 
 ### 🛠️ Tech Stack & Competências
 | Domínio | Tecnologias |
@@ -29,4 +29,4 @@ Atuando na interseção entre engenharia de software e design de experiências i
 ---
 
 📫 **Conexões Oficiais:**
-[LinkedIn](https://www.linkedin.com/in/tigrevictorduplat) • [CodePen](https://codepen.io/tigrevictorduplat) • [Portfólio/Blog](https://link-do-seu-blog.com)
+[LinkedIn](https://www.linkedin.com/in/tigrevictorduplat) • [CodePen](https://codepen.io/tigrevictorduplat) • [Portfólio/Blog](https://www.tigrevictorduplat.com.br)
